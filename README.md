@@ -1,21 +1,15 @@
-### Hi, I'm Maria Camila 👋🏼👩🏻‍💻  
-### <div align="center">I'm a systems engineer working for the data industry <br> but growing for frontend development 💻🔜🚀</div>  
-  
+## Hi, I'm Maria Camila 👋🏼👩🏻‍💻
 
-- 🌱 I’m currently learning: <b> HTML, CSS, JavaScript, Java </b>
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" height="250" />
 
-- ❓ Ask me about anything related to <b> SQL  Server Integration Services </b>
-  
 
-- ⚡ Fun fact: Intense love for coffee and used to be called "La niña de los plumones", that's why my interesting in being a front-end developer 📖🖍️☕  
-  
-
-  
-  
-
-<br/>  
-
+### I'm a Data Engineer becoming a FrontEnd Developer
+- 💼 I’m currently working in the industry data developing ETL processes.
+- 👩🏻‍🎓 I'm a systems engineer at <a href="https://www.unilibre.edu.co/cali/"> Universidad Libre </a>.
+- 🌱 I’m currently learning HTML, CSS, Javascript, Java.
+- 💬 Ask me about anything related to Data Migration.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: Intense love for coffee and used to be called "La niña de los plumones", that's why my interesting in being a front-end developer 📖🖍️☕ 
 
 ## My Skill Set  
 
@@ -76,3 +70,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcamila1098&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+
+
+
+
