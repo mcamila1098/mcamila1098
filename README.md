@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java.
 - 💬 Ask me about anything related to Data Migration.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: Intense love for coffee and used to be called "La niña de los plumones", that's why my interesting in being a front-end developer 📖🖍️☕ 
+- ⚡ Fun fact: Intense love for coffee and used to be called "La niña de los plumones", that's why my interesting in being a front-end developer 🖍️☕ 
 
 ## My Skill Set  
 
