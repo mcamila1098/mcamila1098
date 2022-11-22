@@ -53,7 +53,7 @@
 
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/mcamila1098" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -67,7 +67,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcamila1098&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left">
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcamila1098&theme=outrun&layout=compact"/></div>
+</div>  
 
 <br/>  
 
