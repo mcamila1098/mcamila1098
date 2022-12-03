@@ -1,7 +1,10 @@
 ## Hi, I'm Maria Camila 👋🏼👩🏻‍💻
 
+<!--
 <img align="right" alt="GIF" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="350" height="250" />
+-->
 
+<img align="right" width="250" height="250" src="https://github.com/mcamila1098/mcamila1098/blob/main/octocat-camila.png"></a>
 
 ### I'm a Data Engineer becoming a FrontEnd Developer
 - 💼 I’m currently working in the industry data developing ETL processes.
