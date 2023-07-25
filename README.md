@@ -34,7 +34,7 @@
 <div align="left">  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/SQL_Server_Integration_Services" target="_blank"><img style="margin: 10px" src="https://images.ctfassets.net/k49d63tr8kcn/26PDZrTLRKMl7Xqlwwmxlg/a66387f71d55dea2ae2623df37903995/ssis.png" alt="SSIS" height="50" /></a> 
-<a href="https://www.kingswaysoft.com/" target="_blank"><img style="margin: 10px" src="https://media.glassdoor.com/sqll/1291296/kingswaysoft-squareLogo-1660054129481.png" alt="KingswaySoft" height="50" /></a>
+<a href="https://www.kingswaysoft.com/" target="_blank"><img style="margin: 10px" src="https://www.kingswaysoft.com/Frontend/Images/kingswaysoft-logo.svg" alt="KingswaySoft" height="50" /></a>
 </div>
 
 
